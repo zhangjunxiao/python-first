@@ -38,4 +38,4 @@ print "张俊啸"
 print time.time()
 print time.localtime(time.time())
 print time.asctime(time.localtime())
-print time.strftime("%Y-%m-%d %H:%M:%S",time.localtime())
+print time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
